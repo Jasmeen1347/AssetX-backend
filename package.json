@@ -1,7 +1,7 @@
 {
   "name": "assetx-backend",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "main": "index.js",
   "engines": {
     "node": ">=12.0.0"
   },
